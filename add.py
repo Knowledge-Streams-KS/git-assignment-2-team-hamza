@@ -1,4 +1,4 @@
 #add numbers 
 def add (a,b):
-    x = int(a) + int(b)
+    x = (a) + (b)
     return x
